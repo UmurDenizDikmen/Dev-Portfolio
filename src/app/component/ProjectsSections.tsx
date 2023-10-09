@@ -14,12 +14,12 @@ type ProjectsProps = {
 
 const projects: ProjectsProps[] = [
   {
-    name: "Netflix Clone",
+    name: "GlowMazon",
     description:
-      "Full Stack Netflix Clone in React, Typescript, Tailwind CSS, Next.JS, Prisma, MongoDB, NextAuth",
-    image: "/netflix-clone.png",
-    github: "https://github.com/UmurDenizDikmen/Netflix-Clone",
-    link: "https://netflix-clone-projects.vercel.app/auth",
+      "Full Stack Ecommerce-Website in React, Typescript, Tailwind CSS, Next.JS, Prisma, MongoDB, NextAuth",
+    image: "/ss-project-glowmazon",
+    github: "https://github.com/UmurDenizDikmen/E-Commerce-Nextjs",
+    link: "https://e-commerce-nextjs-umurdenizdikmen-gmailcom.vercel.app/",
   },
 ];
 
