@@ -17,7 +17,7 @@ const projects: ProjectsProps[] = [
     name: "GlowMazon",
     description:
       "Full Stack Ecommerce-Website in React, Typescript, Tailwind CSS, Next.JS, Prisma, MongoDB, NextAuth",
-    image: "/ss-project-glowmazon",
+    image: "/ss-project-glowmazon.png",
     github: "https://github.com/UmurDenizDikmen/E-Commerce-Nextjs",
     link: "https://e-commerce-nextjs-umurdenizdikmen-gmailcom.vercel.app/",
   },
