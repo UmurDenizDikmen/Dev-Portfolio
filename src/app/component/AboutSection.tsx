@@ -18,6 +18,9 @@ const skills: SkillsProps[] = [
     skill: "TypeScript",
   },
   {
+    skill: "C#",
+  },
+  {
     skill: "React",
   },
   {
