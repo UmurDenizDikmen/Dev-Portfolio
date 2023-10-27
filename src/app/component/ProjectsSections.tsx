@@ -16,10 +16,18 @@ const projects: ProjectsProps[] = [
   {
     name: "GlowMazon",
     description:
-      "Full Stack Ecommerce-Website in React, Typescript, Tailwind CSS, Next.JS, Prisma, MongoDB, NextAuth",
+      "Full Stack Ecommerce-Website in React, Typescript, Tailwind CSS, Next.JS, Prisma, MongoDB, NextAuth,DaisyUI",
     image: "/ss-project-glowmazon.png",
     github: "https://github.com/UmurDenizDikmen/E-Commerce-Nextjs",
     link: "https://e-commerce-nextjs-umurdenizdikmen.vercel.app/",
+  },
+  {
+    name: "CoralBikes",
+    description:
+      "Full Stack Ecommerce-Website in React, Typescript, Tailwind CSS, Next.JS, Prisma, MongoDB, NextAuth",
+    image: "/bicycle-ecommerce.png",
+    github: "https://github.com/UmurDenizDikmen/Bicycle-E-Commerce-Nextjs",
+    link: "https://bicycle-e-commerce-nextjs-umurdenizdikmen.vercel.app/",
   },
 ];
 
