@@ -41,6 +41,9 @@ const skills: SkillsProps[] = [
   {
     skill: "Prisma",
   },
+  {
+    skill: "SQL",
+  },
 ];
 
 const AboutSection = () => {

@@ -32,7 +32,7 @@ const projects: ProjectsProps[] = [
   {
     name: "U-Learn",
     description:
-      "Building Online education website mainpage with NextJS, TailwindCSS & React",
+      "Building Online education website mainpage  with NextJS, TailwindCSS & React",
     image: "/ss-ulearn.png",
     github: "https://github.com/UmurDenizDikmen/ULearn-Nextjs",
     link: "https://u-learn-nextjs-umurdenizdikmen.vercel.app/",
@@ -46,7 +46,7 @@ const ProjectsSections = () => {
         Projects
         <hr className="w-6 h-1 mx-auto my-4 bg-teal-500 border-0 rounded"></hr>
       </h1>
-      <div className="flex flex-col space-y-28 items-center">
+      <div className="flex flex-col space-y-28 items-left">
         {projects.map((project, idx) => {
           return (
             <div key={idx}>
