@@ -29,6 +29,14 @@ const projects: ProjectsProps[] = [
     github: "https://github.com/UmurDenizDikmen/Bicycle-E-Commerce-Nextjs",
     link: "https://bicycle-e-commerce-nextjs-umurdenizdikmen.vercel.app/",
   },
+  {
+    name: "U-Learn",
+    description:
+      "Building Online education website mainpage with NextJS, TailwindCSS & React",
+    image: "/ss-ulearn.png",
+    github: "https://github.com/UmurDenizDikmen/ULearn-Nextjs",
+    link: "https://u-learn-nextjs-umurdenizdikmen.vercel.app/",
+  },
 ];
 
 const ProjectsSections = () => {
